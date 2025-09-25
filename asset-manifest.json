@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LetterLab/static/css/main.f855e6bc.css",
+    "main.js": "/LetterLab/static/js/main.15fd3513.js",
+    "static/js/453.7f43ace8.chunk.js": "/LetterLab/static/js/453.7f43ace8.chunk.js",
+    "index.html": "/LetterLab/index.html",
+    "main.f855e6bc.css.map": "/LetterLab/static/css/main.f855e6bc.css.map",
+    "main.15fd3513.js.map": "/LetterLab/static/js/main.15fd3513.js.map",
+    "453.7f43ace8.chunk.js.map": "/LetterLab/static/js/453.7f43ace8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.15fd3513.js"
+  ]
+}
